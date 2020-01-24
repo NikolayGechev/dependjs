@@ -12,19 +12,14 @@ Show/Hide, Enabled/Disabled, Optional/Required.
 
 Simple logic into attribute 'depend' include include next elements which deinining the behavior of the element:
 
-1. Functions - "show->[]", "hide->[]", "enabled->[]", "disabled->[]", "optional->[]", "required→[]"
+- 1. Functions - "show->[]", "hide->[]", "enabled->[]", "disabled->[]", "optional->[]", "required→[]". `#f03c15`
 
-2. Delimiter between the functions - ",".
+- 2. Delimiter between the functions - ",". `#f03c15`
 
-3. Logical Operators - "(", ")", "&&", "||", " !".
+- 3. Logical Operators - "(", ")", "&&", "||", " !". `#f03c15`
 
-4. CSS Selectors.
+- 4. CSS Selectors. `#f03c15`
 
 Syntax example:
 
 enabled->[input[name=checkbox1] && !input[name=checkbox2] && input[name=checkbox3]], optional->[input[name=checkbox2]]
-
-
-
-
-
