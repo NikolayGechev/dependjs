@@ -4,7 +4,7 @@
 
  Can be compoused large and complex graph of dependencyes.
 
- The only think is that graph have to be [Directed Acyclic Graph -!]( https://en.wikipedia.org/wiki/Directed_acyclic_graph )
+ The only think is that graph have to be [Directed Acyclic Graph]( https://en.wikipedia.org/wiki/Directed_acyclic_graph )
 
  Depend.js focuses to the most commonly used element states of an input form.
 
